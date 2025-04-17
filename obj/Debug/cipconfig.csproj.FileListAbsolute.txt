@@ -1,0 +1,11 @@
+C:\Users\admin\Source\Repos\cipconfig\cipconfig\bin\Debug\cipconfig.exe.config
+C:\Users\admin\Source\Repos\cipconfig\cipconfig\bin\Debug\cipconfig.exe
+C:\Users\admin\Source\Repos\cipconfig\cipconfig\bin\Debug\cipconfig.pdb
+C:\Users\admin\Source\Repos\cipconfig\cipconfig\bin\Debug\System.Drawing.Common.dll
+C:\Users\admin\Source\Repos\cipconfig\cipconfig\bin\Debug\System.Drawing.Common.pdb
+C:\Users\admin\Source\Repos\cipconfig\cipconfig\bin\Debug\System.Drawing.Common.xml
+C:\Users\admin\Source\Repos\cipconfig\cipconfig\obj\Debug\cipconfig.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\cipconfig\cipconfig\obj\Debug\cipconfig.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\cipconfig\cipconfig\obj\Debug\cipconfig.csproj.Up2Date
+C:\Users\admin\Source\Repos\cipconfig\cipconfig\obj\Debug\cipconfig.exe
+C:\Users\admin\Source\Repos\cipconfig\cipconfig\obj\Debug\cipconfig.pdb
